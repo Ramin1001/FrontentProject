@@ -1,0 +1,23 @@
+$btn-default: {
+    width: 197px;
+    height: 50px;
+    border-radius: 50px;
+    border: 2px solid #25baa9;
+    background-color:
+        #25baa9;
+    float: right;
+
+}
+
+btn-default:hover {
+    background-color: transparent;
+}
+
+$btn-default a:{
+    text-decoration: none;
+    color: white;
+    padding: 20px 25px;
+}
+btn-default a:hover{
+    color: #25baa9;
+}
